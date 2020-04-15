@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17354b86-e14e-43f9-8f2f-912e6bad56dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z5IViPeh7zQSJZ6lRyJhfpX2y0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PythonFundamentos-master/Cap06/Lab03/forca_v2.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.forca_v2">
+    <configuration name="forca_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="forca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forca_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="forca_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="forca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../PythonFundamentos-master/Cap06/Lab03" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../PythonFundamentos-master/Cap06/Lab03/forca_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.forca_v2" />
+        <item itemvalue="Python.forca_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17354b86-e14e-43f9-8f2f-912e6bad56dd" name="Default Changelist" comment="" />
+      <created>1584122553022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584122553022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1866" y="205" key="FileChooserDialogImpl" timestamp="1584128274797">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1866" y="205" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584128274797" />
+    <state width="1418" height="223" key="GridCell.Tab.0.bottom" timestamp="1584128368143">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="1418" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584128368143" />
+    <state width="1418" height="223" key="GridCell.Tab.0.center" timestamp="1584128368143">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="1418" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584128368143" />
+    <state width="1418" height="223" key="GridCell.Tab.0.left" timestamp="1584128368143">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="1418" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584128368143" />
+    <state width="1418" height="223" key="GridCell.Tab.0.right" timestamp="1584128368143">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="1418" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584128368143" />
+    <state x="1734" y="83" key="SettingsEditor" timestamp="1584124596964">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1734" y="83" key="SettingsEditor/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584124596964" />
+    <state width="728" height="458" key="XDebugger.FullValuePopup" timestamp="1584124858896">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="728" height="458" key="XDebugger.FullValuePopup/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584124858896" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584126902943">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584126902943" />
+    <state x="1665" y="0" width="840" height="898" key="search.everywhere.popup" timestamp="1584126378879">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1665" y="0" width="840" height="898" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.900@1366.0.1440.900" timestamp="1584126378879" />
+  </component>
+</project>
